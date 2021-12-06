@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce655b45-aa67-4c31-8528-914528017863": {
+      "ProjectGuid": "ce655b45-aa67-4c31-8528-914528017863",
+      "DisplayName": "LeadScoringDecision_Console",
+      "ColorIndex": 0
+    },
+    "5d413b18-4a70-4a49-88d3-662918672831": {
+      "ProjectGuid": "5d413b18-4a70-4a49-88d3-662918672831",
+      "DisplayName": "LeadScoringDecision_Api",
+      "ColorIndex": 1
+    },
+    "8fecbc7e-1362-4507-9d2b-967eac80149a": {
+      "ProjectGuid": "8fecbc7e-1362-4507-9d2b-967eac80149a",
+      "DisplayName": "LeadScoringDecision_Function",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

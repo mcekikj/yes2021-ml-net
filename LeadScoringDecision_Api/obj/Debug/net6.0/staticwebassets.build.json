@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bSsjXU0BxGfveTZddEq9PDsNkLb9YI+G5FyyIpxQolA=",
+  "Source": "LeadScoringDecision_Api",
+  "BasePath": "_content/LeadScoringDecision_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
